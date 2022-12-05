@@ -11,5 +11,5 @@ The simplest method is to reference this file in the default vim via the `source
 
 To install all the plugings you'll need to install [vundle](https://github.com/VundleVim/Vundle.vim) and then in vim execute this commande:
 
-in vim: `:PluginInstall`
-from command line: `vim +PluginInstall +qall`
+- In vim: `:PluginInstall`
+- from command line: `vim +PluginInstall +qall`
